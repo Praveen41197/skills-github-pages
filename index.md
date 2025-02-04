@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Github skills
 ---
 
+---
+ Welcome to my pages learning
+---
